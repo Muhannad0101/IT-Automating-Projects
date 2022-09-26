@@ -1,4 +1,4 @@
-# Automating-Real-World-Tasks
+# Automating-Real-World-Tasks-with-Python
 This repository contains final tasks and projects for Google Program `IT Automation with Python Professional Certificate`
 
 ## 1-Scale and convert images using PIL
