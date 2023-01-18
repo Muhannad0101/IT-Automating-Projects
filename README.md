@@ -31,12 +31,3 @@ Once the task is completed, the supplier must be notified with an email indicati
 
 Finally, parallel to running the automation, we want to validate the system and send an email if something goes wrong.
 
-## Environment specification:
-- GNULinux5.4.0-1096-gcpx8664
-- Python 3.7.9
-- Django
-- smtplib
-- socket
-- psutil
-- shutil
-- PIL
