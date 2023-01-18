@@ -26,3 +26,7 @@ Finally, parallel to running the automation, we want to validate the system and 
 - Python 3.7.9
 - Django
 - smtplib
+- socket
+- psutil
+- shutil
+- PIL
