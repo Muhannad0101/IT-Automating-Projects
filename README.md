@@ -20,3 +20,8 @@ I will create a Python script that processes images and descriptions and then up
 Once the task is completed, the supplier must be notified with an email indicating the total weight of the fruit (in pounds) loaded. The email should have a PDF attached with the name of the fruit and its total weight (in pounds).
 
 Finally, parallel to running the automation, we want to validate the system and send an email if something goes wrong.
+
+#### Environment specification:
+- GNULinux5.4.0-1096-gcpx8664
+- Python 3.7.9
+- Django
