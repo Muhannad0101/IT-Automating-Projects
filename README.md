@@ -1,6 +1,16 @@
 # Automating-Real-World-Tasks
 This repository contains final tasks and projects for Google Program `IT Automation with Python Professional Certificate`
 
+## Environment specification:
+- `GNULinux5.4.0-1096-gcpx8664`
+- `Python 3.7.9`
+- `Django`
+- `smtplib`
+- `socket`
+- `psutil`
+- `shutil`
+- `PIL`
+
 ## 1-Scale and convert images using PIL
 A company is in the process of updating their website, and they hired a design contractor to create some new icon graphics for the site. But the contractor delivered the final designs in the wrong format - rotated 90 degrees and too big. You can't call the designers and your deadline is fast approaching. I'll need to use Python to get these images ready to run.
 
