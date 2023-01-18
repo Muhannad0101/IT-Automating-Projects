@@ -25,3 +25,4 @@ Finally, parallel to running the automation, we want to validate the system and 
 - GNULinux5.4.0-1096-gcpx8664
 - Python 3.7.9
 - Django
+- smtplib
