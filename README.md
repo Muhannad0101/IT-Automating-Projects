@@ -7,6 +7,7 @@ This repository contains final tasks and projects for Google Program `IT Automat
 - Django
 - smtplib
 - socket
+- requests
 - psutil
 - shutil
 - PIL
