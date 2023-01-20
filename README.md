@@ -15,6 +15,17 @@ This repository contains final tasks and projects for Google Program `IT Automat
 ## 1-Scale and convert images using PIL
 A company is in the process of updating their website, and they hired a design contractor to create some new icon graphics for the site. But the contractor delivered the final designs in the wrong format - rotated 90 degrees and too big. You can't call the designers and your deadline is fast approaching. I'll need to use Python to get these images ready to run.
 
+#### i will do
+Use the Python Imaging Library to do the following to a batch of images:
+
+- Open an image
+
+- Rotate an image
+
+- Resize an image
+
+- Save an image in a specific format in a separate directory 
+
 ## 2-Process Text Files with Python Dictionaries and Upload to Running Web Service
 I work for a company that sells used cars. This company constantly collects feedback in the form of customer reviews. My manager asks me to take those reviews (saved as .txt files) and display them on the company's website. To do this, I'll need to write a script to convert these .txt files and process them into Python dictionaries, and then upload the data to the company's website `currently using Django`.
 
