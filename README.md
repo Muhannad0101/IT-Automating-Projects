@@ -41,11 +41,8 @@ I working for a company that sells second hand cars. Management wants to get a s
 
 ## 4-Automate updating catalog information
 I work in an online fruit store, I needed to develop a system that updates catalog information with data provided by suppliers. Suppliers send the data as large images with a description associated with the products in two files (.tif for image and .txt for description). Images must be converted to smaller jpegs and text must be converted to an HTML file that displays the image and product description. The contents of the HTML file must be uploaded to a web service already running with Django. I also needed to collect the name and weight of all fruits from .txt files and use a Python request to upload it to the Django server.
-
 I will create a Python script that processes images and descriptions and then update your company's website online to add the new products.
-
 Once the task is completed, the supplier must be notified with an email indicating the total weight of the fruit (in pounds) loaded. The email should have a PDF attached with the name of the fruit and its total weight (in pounds).
-
 Finally, parallel to running the automation, we want to validate the system and send an email if something goes wrong.
 #### I will do
 - Write a script that summarizes and processes sales data into different categories 
