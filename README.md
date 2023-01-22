@@ -2,7 +2,7 @@
 This repository contains final tasks and projects for Google Program `IT Automation with Python Professional Certificate`
 
 ## Environment specification:
-- GNU Linux5.4.0-1096-gcpx8664
+- GNU/Linux5.4.0-1096-gcpx8664
 - Python 3.7.9
 - Django
 - smtplib
