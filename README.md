@@ -6,6 +6,7 @@ This repository contains final tasks and projects for Google Program `IT Automat
 - Python 3.7.9
 - smtplib
 - mimetypes
+- reportlab
 - socket
 - requests
 - psutil
@@ -23,7 +24,7 @@ Use the Python Imaging Library to do the following to a batch of images:
 
 
 ## 2-Process Text Files with Python Dictionaries and Upload to Running Web Service
-I work for a company that sells used cars. This company constantly collects feedback in the form of customer reviews. My manager asks me to take those reviews (saved as .txt files) and display them on the company's website. To do this, I'll need to write a script to convert these .txt files and process them into Python dictionaries, and then upload the data to the company's website currently using Django.
+I work for a company that sells used cars. This company constantly collects feedback in the form of customer reviews. My manager asks me to take those reviews (saved as .txt files) and display them on the company's website. To do this, I'll need to write a script to convert these .txt files and process them into Python dictionaries, and then upload the data to the company's website.
 #### I will do
 - Use the Python OS module to process a directory of text files 
 - Manage information stored in Python dictionaries
